@@ -18,8 +18,8 @@
   http://www.imparareaprogrammare.it
 */
 
-var cats = 5;
-var inLine = 2;
+var cats = 44;
+var inLine = 6;
 
 var numLines = Math.ceil(cats/inLine);
 var missing = numLines*inLine-cats;
